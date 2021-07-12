@@ -1,7 +1,5 @@
 # LibServ
 Simple Library Management System using MongoDB, Express and Node .<br>
-WIP right now.<br>
-I will try to host on heroku and put a link here.<br>
 Modules used:-<br>
 Credits:-<br>
 How to run?<br>
